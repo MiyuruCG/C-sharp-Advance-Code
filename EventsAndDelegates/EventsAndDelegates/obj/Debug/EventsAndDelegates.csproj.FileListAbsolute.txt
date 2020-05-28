@@ -1,0 +1,7 @@
+C:\git\GitHub\Udemy\C#\C-Sharp-Advance-Course\C-sharp-Advance-Code\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\git\GitHub\Udemy\C#\C-Sharp-Advance-Course\C-sharp-Advance-Code\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\git\GitHub\Udemy\C#\C-Sharp-Advance-Course\C-sharp-Advance-Code\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\git\GitHub\Udemy\C#\C-Sharp-Advance-Course\C-sharp-Advance-Code\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojAssemblyReference.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Advance-Course\C-sharp-Advance-Code\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\git\GitHub\Udemy\C#\C-Sharp-Advance-Course\C-sharp-Advance-Code\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\git\GitHub\Udemy\C#\C-Sharp-Advance-Course\C-sharp-Advance-Code\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
